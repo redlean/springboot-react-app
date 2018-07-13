@@ -1,0 +1,5 @@
+com\okta\developer\demo\DemoApplication.class
+com\okta\developer\demo\beer\Beer.class
+com\okta\developer\demo\beer\BeerCommandLineRunner.class
+com\okta\developer\demo\beer\BeerController.class
+com\okta\developer\demo\beer\BeerRepository.class
