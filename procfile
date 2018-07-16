@@ -1,0 +1,1 @@
+heroku deploy:jar C:\wrks-ng\generator-ordreMission\basic\target\react-and-spring-data-rest-basic-0.0.1-SNAPSHOT.jar --app generator-ordreMission
